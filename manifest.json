@@ -171,5 +171,91 @@
                 "pokeRegions"
             ]
         }
+    },
+    "CaiNongMod": {
+        "url": "mods/CaiNongMod.jar",
+        "steamId": "",
+        "info": {
+            "modid": "CaiNongMod",
+            "name": "菜农Mod",
+            "author_list": ["农黑", "農農又黑黑"],
+            "description": "咕噜咕噜咕噜咕噜咕咚咚,拍点点拍点点拍拍拍。\n\n 菜农mod群930677646",
+            "version": "1.0.3",
+            "sts_version": "12-22-2020",
+            "mts_version": "3.30.3",
+            "dependencies": ["basemod"]
+        }
+
+    },
+    "CET46InSpire": {
+        "url": "mods/CET46InSpire.jar",
+        "steamId": "",
+        "info": {
+            "modid": "CET46InSpire",
+            "name": "CET46 In Spire",
+            "author_list": ["__name__", "Dim"],
+            "description": "Do not forget CET46! Also JLPT.\n别忘了四六级！当然还有日本语能力测试。",
+            "version": "1.2.3",
+            "sts_version": "01-23-2019",
+            "mts_version": "3.7.0",
+            "dependencies": ["basemod", "stslib"],
+            "optional_dependencies": ["downfall"],
+            "credits": "Csx_QAQ_",
+            "update_json": ""
+        }
+    },
+    "DarkestNarration": {
+        "url": "mods/DarkestNarration.jar",
+        "steamId": "",
+        "info": {
+            "modid": "dd-narration-mod",
+            "name": "Darkest Narration",
+            "author_list": [
+                "xXSuperProGaemr.1997Xx"
+            ],
+            "description": "Add Darkest Dungeon style narration to the game.",
+            "version": "1.1.0",
+            "sts_version": "12-22-2020",
+            "mts_version": "3.18.2",
+            "dependencies": [
+                "basemod",
+                "stslib"
+            ]
+        }
+    },
+    "IsaacMod": {
+        "url": "mods/IsaacMod.jar",
+        "steamId": "",
+        "info": {
+            "modid": "IsaacMod",
+            "name": "[IsaacMod]以撒尖塔",
+            "author_list": ["Keeper"],
+            "description": "以撒尖塔，你穷未顽过的船新版本",
+            "version": "1.3.1",
+            "dependencies": [
+                "basemod",
+                "stslib"
+            ]
+        }
+
+    },
+    "ninja": {
+        "url": "mods/ninja.jar",
+        "steamId": "",
+        "info": {
+            "modid": "ninja",
+            "name": "蕾忍mod",
+            "author_list": [
+                "叛忍999（似乎被篡改成了这个名字）"
+            ],
+            "description": "忍法帖大成，目前70张牌与8遗物可以游玩。由于技术难题存在各种小bug且很有可能有恶性bug，本人技术力有限实在抱歉。 NL 刀系流派大加强",
+            "dependencies": [
+                "basemod",
+                "stslib"
+            ],
+            "version": "1.6.0",
+            "sts_version": "03-07-2022"
+        }
+
     }
 }
