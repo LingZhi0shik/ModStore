@@ -1,4 +1,122 @@
 {
+    "AnimeTheIronClad": {
+        "url": "mods/AnimeTheIronClad.jar",
+        "steamId": "",
+        "info": {
+            "modid": "AnimeTheIronClad",
+            "name": "战士哥卡图娘化MOD",
+            "author_list": ["Hatk"],
+            "description": "使得你卡图中的红裤衩变成失去红裤衩的娘们——这便是恶魔交易的代价！",
+            "version": "1.0.0",
+            "sts_version": "12-18-2022",
+            "mts_version": "3.30.3",
+            "dependencies": ["basemod"]
+        }
+
+
+    },
+    "BlueHedgehog": {
+        "url": "mods/BlueHedgehog.jar",
+        "steamId": "",
+        "info": {
+            "modid": "BlueHedgehog",
+            "name": "The Hedgehog",
+            "author_list": ["SpireWolf25"],
+            "description": "Brings Sonic the Hedgehog to Slay the Spire.\n\r\nThe Hedgehog is a remix of the four vanilla characters.\n- Collect Rings to build your Dexterity\n- Perform Tricks to gain Vigor\n\r\nFeatures\n- BLAST PROCESSING\n- 60+ cards\n- Voice Clips (can be disabled in config)\n\r\nCredits\n- Card Art Screenshots from the Sonic Wiki.\n- Audio from the Sound Resource.\n- Help from the nice people in the modding-technical\n- Other Open Source mods (Astrologer, Marisa, Packmaster)",
+            "version": "0.7.0",
+            "sts_version": "12-18-2022",
+            "mts_version": "3.30.0",
+            "dependencies": ["basemod", "stslib"],
+            "update_json": ""
+        }
+
+
+    },
+    "invincible-one": {
+        "url": "mods/invincible-one.jar",
+        "steamId": "",
+        "info": {
+            "modid": "invincible-one",
+            "name": "The Invincible 无敌者",
+            "author_list": ["Temple9", "vodkakaa"],
+            "description": "PS: You can use SuperFastMode if you want.\n",
+            "credits": "",
+            "version": "1.2.1",
+            "sts_version": "03-07-2022",
+            "mts_version": "3.24.0",
+            "dependencies": ["basemod", "stslib"],
+            "update_json": ""
+        }
+
+
+    },
+    "quickrestart": {
+        "url": "mods/quickRestart.jar",
+        "steamId": "",
+        "info": {
+            "modid": "quickrestart",
+            "name": "Quick Restart",
+            "author_list": ["erasels"],
+            "description": "Adds two buttons that allow you to quickly restart your game during and after your run.",
+            "version": "2.1.1",
+            "sts_version": "07-05-2019",
+            "mts_version": "3.11.0",
+            "dependencies": ["basemod"],
+            "update_json": ""
+        }
+
+    },
+    "stswanderers": {
+        "url": "mods/stswanderers.jar",
+        "steamId": "",
+        "info": {
+            "modid": "stswanderers",
+            "name": "The Castaway",
+            "author_list": ["Me! (Or well, you. If you want to use \"quotes\" make sure you have slashes in front of them like this.)"],
+            "description": "This is a description!\n\"This\" is a second line of description.\nThis \"\\\" is a slash. If you add another line like this:\nAll the spaces on the left of this will be gone. If you want spacing on a new line, do it:\n    like this.",
+            "version": "1.0.1",
+            "sts_version": "12-18-2022",
+            "mts_version": "3.30.0",
+            "dependencies": ["basemod", "stslib"],
+            "update_json": ""
+        }
+
+    },
+    "Remilia_Modoki": {
+        "url": "mods/RemiliaScarlet.jar",
+        "steamId": "",
+        "info": {
+            "modid": "Remilia_Modoki",
+            "name": "Remilia（蕾米莉亚）",
+            "author_list": [
+                "Volcrz"
+            ],
+            "description": "Adds Remilia（蕾米莉亚） from Touhou Project as a new playable character.",
+            "dependencies": [
+                "basemod"
+            ],
+            "version": "0.0.9",
+            "sts_version": "01-23-2019"
+        }
+
+    },
+    "stslib": {
+        "url": "mods/StSLib.jar",
+        "steamId": "",
+        "info": {
+            "modid": "stslib",
+            "name": "StSLib",
+            "author_list": ["kiooeht"],
+            "description": "A collection of keywords and mechanics for other Slay the Spire mods to use.",
+            "credits": "\n  Contributors: The_Evil_Pickle, Reina, Rin Camelia, erasels, EatYourBeetS, Jedi, Vex, Mistress Alison, Alchyr, Bryan, Pandemonium, NellyDevo, herbix, JamesTripleQ \n  Translation: Jedi (Russian), Rita-B (ZHS), rainfoxest (ZHS, ZHT), Mwalls (ZHS), Saki_1128 (Korean), Celicath (Korean), Diamsword (French), red5h4d0w (French)",
+            "version": "2.11.1",
+            "sts_version": "12-18-2022",
+            "mts_version": "3.24.0",
+            "dependencies": ["basemod"],
+            "update_json": "https://api.github.com/repos/kiooeht/StSLib/releases/latest"
+        }
+
+    },
     "StackableRelics": {
         "url": "mods/StackableRelics.jar",
         "steamId": "",
