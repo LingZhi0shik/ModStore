@@ -1,0 +1,57 @@
+{
+    "StackableRelics": {
+        "url": "mods/StackableRelics.jar",
+        "steamId": "",
+        "info": {
+            "modid": "StackableRelics",
+            "name": "Stackable Relics",
+            "author_list": [
+                "Maddii"
+            ],
+            "description": "peepoHawOnAGoose",
+            "version": "1.3.7",
+            "sts_version": "03-07-2022",
+            "mts_version": "3.25.2",
+            "dependencies": [
+                "basemod",
+                "stslib"
+            ],
+            "update_json": ""
+        }
+    },
+    "loadout": {
+        "url": "mods/loadout.jar",
+        "steamId": "",
+        "info": {
+            "modid": "loadout",
+            "name": "Loadout Mod",
+            "author_list": [
+                "JasonW"
+            ],
+            "credits": "Basemod, ModTheSpire, #modding",
+            "description": "Adds a debug panel that gives you stuffs.",
+            "version": "1.1.2",
+            "sts_version": "03-07-2022",
+            "mts_version": "3.26.0",
+            "dependencies": [
+                "basemod",
+                "stslib"
+            ],
+            "update_json": "",
+            "optional_dependencies": [
+                "RelicUpgradeLib",
+                "pinacolada-fabricate",
+                "extendedui",
+                "CardAugments",
+                "ruina",
+                "LazyManKits",
+                "spireTogether",
+                "Library of Ruina",
+                "chaofanmod",
+                "VUPShionMod",
+                "RiskOfRelics",
+                "pokeRegions"
+            ]
+        }
+    }
+}
