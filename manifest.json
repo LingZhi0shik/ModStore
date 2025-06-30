@@ -14,7 +14,23 @@
         }
 
 
-    },
+    }, "RightClickHelper": {
+    "url": "mods/RightClickHelper.jar",
+    "steamId": "",
+    "info": {
+        "modid": "RightClick",
+        "name": "触屏小助手",
+        "author_list": ["Dieyou"],
+        "description": "提供了一个可以切换左右键的按钮在顶部",
+        "version": "1.0.0",
+        "sts_version": "12-18-2022",
+        "mts_version": "3.30.3",
+        "dependencies": ["basemod"]
+    }
+
+
+},
+
     "BlueHedgehog": {
         "url": "mods/BlueHedgehog.jar",
         "steamId": "",
