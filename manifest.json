@@ -62,6 +62,24 @@
 
 
     },
+    "mintySpire": {
+        "url": "mods/mintySpire.jar",
+        "steamId": "",
+        "info": {
+            "modid": "mintyspire",
+            "name": "Minty Spire 薄荷尖塔",
+            "author_list": ["erasels"],
+            "credits": "Contributors: kiooeht, Mmagicala, Linzi, NotInTheFace \nTranslators: (ZHS) Rita-B, (KOR) GyeRak, Celicath",
+            "description": "A compilation of small QoL mods that make life a little more comfy in the spire.",
+            "version": "2.5.8",
+            "sts_version": "11-29-2020",
+            "mts_version": "3.15.0",
+            "dependencies": ["basemod"],
+            "update_json": ""
+        }
+
+
+    },
     "invincible-one": {
         "url": "mods/invincible-one.jar",
         "steamId": "",
