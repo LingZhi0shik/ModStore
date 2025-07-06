@@ -80,6 +80,23 @@
 
 
     },
+    "mintySpire": {
+        "url": "mods/Palmod-0.1.jar",
+        "steamId": "",
+        "info": {
+            "modid": "Palworld",
+            "name": "[PalMod]幻兽尖塔",
+            "author_list": ["b站蝴蝶是幼虫"],
+            "description": "收服所有怪物吧！在战斗中右键开局送的遗物即可查看新手教程。本mod和以撒mod冲突",
+            "version": "0.2.5",
+            "sts_version": "11-29-2020",
+            "mts_version": "3.15.0",
+            "dependencies": ["basemod"],
+            "update_json": ""
+        }
+
+
+    },
     "invincible-one": {
         "url": "mods/invincible-one.jar",
         "steamId": "",
