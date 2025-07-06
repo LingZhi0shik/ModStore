@@ -44,6 +44,21 @@
     }
 
 
+},"revengingwraith": {
+    "url": "mods/Revenging_Wraith.jar",
+    "steamId": "",
+    "info": {
+        "modid": "revengingwraith",
+        "name": "复仇怨灵Revenging_Wraith",
+        "author_list": ["旧日回响，The forgotten，炉心勇解，茉莉Mori"],
+        "description": "高塔的王子，身染荒疫，引气入体，如今只剩一具骨架，一抹残魂，势必要铲除腐败的源头。",
+        "version": "1.0.5",
+        "sts_version": "12-18-2022",
+        "mts_version": "3.30.3",
+        "dependencies": ["basemod","stslib"]
+    }
+
+
 },"UnlockEverythingMod": {
     "url": "mods/UnlockEverythingMod.jar",
     "steamId": "",
