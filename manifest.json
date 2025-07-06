@@ -29,6 +29,21 @@
     }
 
 
+},"PerfectRobot": {
+    "url": "mods/PerfectRobot.jar",
+    "steamId": "",
+    "info": {
+        "modid": "PerfectRobotmod",
+        "name": "The Perfect (完美机器人)",
+        "author_list": ["光影相生"],
+        "description": "The Defect Upgrade his core. Now what he will be?",
+        "version": "0.0.1",
+        "sts_version": "12-22-2020",
+        "mts_version": "3.23.2",
+        "dependencies": ["basemod","stslib"]
+    }
+
+
 },"UnlockEverythingMod": {
     "url": "mods/UnlockEverythingMod.jar",
     "steamId": "",
