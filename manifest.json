@@ -80,7 +80,7 @@
 
 
     },
-    "mintySpire": {
+    "Palmod": {
         "url": "mods/Palmod-0.1.jar",
         "steamId": "",
         "info": {
@@ -200,6 +200,22 @@
                 "stslib"
             ],
             "update_json": ""
+        }
+    },   "SaibaMidori": {
+        "url": "mods/Saiba Midori.jar",
+        "steamId": "",
+        "info": {
+            "modid": "SaibaMidori",
+            "name": "才羽 绿",
+            "author_list": [
+                "才羽绿", "antileaf", "茉莉、Mori"
+            ],
+            "description": "千年游戏开发部的原画师。",
+            "dependencies": [
+                "basemod", "stslib"
+            ],
+            "version": "0.0.2",
+            "sts_version": "12-06-2019v2"
         }
     },
     "loadout": {
