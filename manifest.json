@@ -20,12 +20,12 @@
     "info": {
         "modid": "RightClick",
         "name": "触屏小助手",
-        "author_list": ["Dieyou"],
-        "description": "提供了一个可以切换左右键的按钮在顶部",
-        "version": "1.0.0",
-        "sts_version": "12-18-2022",
-        "mts_version": "3.30.3",
-        "dependencies": ["basemod"]
+        "author_list": ["@b站 蝴蝶是幼虫"],
+        "description": "帮助触屏设备解决点击不了右键的问题，单击游戏内图标，切换当前按键类型，图标为L,说明当前按键锁定为左键，为R说明按键锁定为右键",
+        "version": "1.0.1",
+        "sts_version": "12-22-2020",
+        "mts_version": "3.23.2",
+        "dependencies": ["basemod","stslib"]
     }
 
 
