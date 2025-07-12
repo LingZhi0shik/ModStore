@@ -14,6 +14,22 @@
     }
 
 
+},"actlikeit": {
+    "url": "mods/actlikeit.jar",
+    "steamId": "",
+    "info": {
+        "modid": "actlikeit",
+        "name": "Act Like it!",
+        "author_list": ["Razash"],
+        "credits": "DarkGlade for decluttering event options.",
+        "description": "Rudimentary framework for creating acts.",
+        "version": "v1.2.8",
+        "sts_version": "18-12-2022",
+        "mts_version": "3.8.0",
+        "dependencies": ["basemod"]
+    }
+
+
 },"PerfectRobot": {
     "url": "mods/PerfectRobot.jar",
     "steamId": "",
