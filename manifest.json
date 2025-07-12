@@ -18,6 +18,19 @@
     "url": "mods/actlikeit.jar",
     "steamId": "",
     "info": {
+        "modid": "BlasphemyDefect",
+        "name": "渎煲",
+        "author_list": ["芝士奶盖绿茶"],
+        "description": "亵渎鸡煲",
+        "version": "0.0.1",
+        "sts_version": "08-15-2021",
+        "dependencies": ["basemod","stslib"]
+    }
+
+        },"BlasphemyDefect": {
+    "url": "mods/BlasphemyDefect.jar",
+    "steamId": "",
+    "info": {
         "modid": "actlikeit",
         "name": "Act Like it!",
         "author_list": ["Razash"],
