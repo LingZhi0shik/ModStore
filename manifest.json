@@ -1,20 +1,5 @@
 {
-    "AnimeTheIronClad": {
-        "url": "mods/AnimeTheIronClad.jar",
-        "steamId": "",
-        "info": {
-            "modid": "AnimeTheIronClad",
-            "name": "战士哥卡图娘化MOD",
-            "author_list": ["Hatk"],
-            "description": "使得你卡图中的红裤衩变成失去红裤衩的娘们——这便是恶魔交易的代价！",
-            "version": "1.0.0",
-            "sts_version": "12-18-2022",
-            "mts_version": "3.30.3",
-            "dependencies": ["basemod"]
-        }
-
-
-    }, "RightClickHelper": {
+    "RightClickHelper": {
     "url": "mods/RightClickHelper.jar",
     "steamId": "",
     "info": {
